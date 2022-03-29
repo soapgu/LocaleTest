@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">LocaleTest不翻译</string>
+    <string name="lang_test">多语言测试</string>
+    <string name="switch_title">切换</string>
+</resources>
